@@ -4,5 +4,5 @@
 
 #### Link to live demo
 <ul>
-  <li><a href="https://cloud-chaser.netlify.app/">HTML5</a></li>
+  <li><a href="https://cloud-chaser.netlify.app/">CLOUD-CHASER</a></li>
 </ul>
